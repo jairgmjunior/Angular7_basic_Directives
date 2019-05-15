@@ -1,0 +1,31 @@
+mat-card{
+    margin: 40px
+}
+
+.myClass1{
+    font-size: 16px;
+    color: green;
+    background-color: blue;
+    padding: 15px;
+}
+
+.myClass2{
+    font-size: 10px;
+    color: coral;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.myClass3{
+    font-size: 44px;
+    color: deeplink;
+    background-color: darkorange;
+    padding: 8px;
+}
+
+.myClass4{
+    font-size: 22px;
+    color: dodgerblue;
+    background-color: indigo;
+    padding: 6px;
+}
